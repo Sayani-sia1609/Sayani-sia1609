@@ -65,9 +65,8 @@
 ## 🧩 Contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sayani-sia1609/Sayani-sia1609/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Sayani-sia1609/Sayani-sia1609/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
-
 ---
 
 ## 🌐 Connect
