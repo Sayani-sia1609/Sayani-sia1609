@@ -21,7 +21,7 @@
 ## ⚒️ Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,express,mongodb,firebase,threejs,git,github,linux" />
+<img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,express,mongodb,firebase,threejs,git,github,C,C++" />
 </p>
 
 ---
@@ -73,10 +73,10 @@
 ## 🌐 Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK">
+  <a href="https://linkedin.com/in/sayani-das-16sept2004/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:dassayani301@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
