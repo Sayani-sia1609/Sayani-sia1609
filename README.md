@@ -1,5 +1,5 @@
 <!-- PROFILE HEADER -->
-<h1 align="center">Hi 👋, I'm Sia</h1>
+<h1 align="center">Hi 👋, I'm Sia✨</h1>
 <h3 align="center">🚀 Building at the intersection of AI, Full-Stack & Impact</h3>
 
 <p align="center">
@@ -28,24 +28,29 @@
 
 ## 🚀 Featured Projects
 
-### 🌸 Whispers (Ongoing)
-> Anonymous storytelling platform for safe emotional expression  
-- Focus: Privacy, UX, and meaningful interaction  
-- Stack: MERN + scalable backend  
 
----
 
-### 🖐️ Gesture-Based Mouse Control
+### 🖐️ Gesture-Based Mouse Control  
+
 > Control your system using hand gestures  
-- Built with **Computer Vision (OpenCV)**  
-- Real-time hand tracking  
+
+🔗 [View Repository](https://github.com/Sayani-sia1609/YOUR-REPO-LINK)  
+
+⚙️ Tech: Python, OpenCV, Computer Vision  
+
+✨ Focus: Real-time interaction, gesture recognition  
 
 ---
 
-### 📈 Trading Bot (Binance)
-> Automated trading with strategy execution  
-- API integration with Binance  
-- Focus on performance & automation  
+### 📈 Trading Bot  
+
+> Automated trading system using Binance API  
+
+🔗 [View Repository](https://github.com/Sayani-sia1609/YOUR-REPO-LINK)  
+
+⚙️ Tech: Python, API Integration  
+
+✨ Focus: Strategy automation, performance  
 
 ---
 
